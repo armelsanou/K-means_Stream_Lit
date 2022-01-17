@@ -3,7 +3,6 @@ from curses import COLOR_BLACK, COLOR_BLUE, COLOR_RED
 import streamlit as st
 import pandas as pd
 import numpy as np
-import sklearn.metrics as sm
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 from sklearn import datasets
